@@ -3,4 +3,5 @@ html5lib==1.0.1
 lxml==4.3.4
 pandas==0.25.0
 requests==2.22.0
+selenium==3.141.0 
 xlrd==1.2.0 
