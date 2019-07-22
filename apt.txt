@@ -1,2 +1,2 @@
-firefox
-firefox-geckodriver
+firefox=68.0+build3-0ubuntu0.18.04.1
+firefox-geckodriver=68.0+build3-0ubuntu0.18.04.1
